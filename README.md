@@ -1,15 +1,15 @@
 # InvoiceManagement
-Backend RESTFULL API -Manage Invoices App
-Feature : 
-   Onion Architecture
-   CQRS Pattern
-   MediatR
-   Fluent Validation
-   AutoMapper
-   .NET Core 5
-   Entity Framework 
-   Linq
-   Dependency Injection
-   ViewModels/DTO's
+Backend RESTFULL API -Manage Invoices App</br>
+Feature : </br>
+   Onion Architecture</br>
+   CQRS Pattern</br>
+   MediatR</br>
+   Fluent Validation</br>
+   AutoMapper</br>
+   .NET Core 5</br>
+   Entity Framework</br> 
+   Linq</br>
+   Dependency Injection</br>
+   ViewModels/DTO's</br>
    
    
