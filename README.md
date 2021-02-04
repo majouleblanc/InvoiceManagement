@@ -9,7 +9,7 @@ Features : </br>
    AutoMapper
    .NET Core 5
    Entity Framework
-   Linq
+   LINQ
    Dependency Injection
    ViewModels/DTO's
    </pre>
